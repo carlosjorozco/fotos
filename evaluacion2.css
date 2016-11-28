@@ -1,0 +1,43 @@
+
+html{
+	display: flex;
+	justify-content: center;
+}
+
+#spo{
+	font-size: 1vw;
+	font-family: cursive;
+	color: #DFFC52;
+
+}
+
+#contenedor{
+	width: 80vw;
+	height: 40vw;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#imagenprincipal{
+	
+	width: 25vw;
+	height: 25vw;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#imagenes{
+	display: flex;
+	flex-wrap: wrap;
+	height: 40vw;
+	width: 50vw;
+	justify-content: space-around;
+}
+
+#imagenes >div{
+
+	width: 13vw;
+	height: 10vw;
+	
+}
+
